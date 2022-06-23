@@ -1,7 +1,7 @@
 
 ### Hi there! 😁
 
-My name is Murilo Kuerten from Brazil (🇧🇷). I've been working as Front-End since 2019. I'm passionate about open source projects and I've always loved to produce a lot of content during my career.
+My name is Murilo Kuerten from Brazil (🇧🇷). I've been working as Front-End Web and Mobile since 2019. I'm passionate about open source projects and I've always loved to produce a lot of content during my career.
 
 In my free time I like to play (and watch) surf (:surfer:), to read books (📚), I'm programming (:computer:), 
 I'm an investor (:chart_with_upwards_trend:) and eventually I like to philosophize about life with a beer (🍺).
